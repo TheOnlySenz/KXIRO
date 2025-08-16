@@ -1,0 +1,14 @@
+{
+  "expo": {
+    "scheme": "acme",
+    "plugins": [
+      "expo-router"
+    ],
+    "extra": {
+      "supabaseUrl": "YOUR_SUPABASE_URL",
+      "supabaseAnonKey": "YOUR_SUPABASE_ANON_KEY"
+    },
+    "name": "IdeaSpark",
+    "slug": "IdeaSpark"
+  }
+}
