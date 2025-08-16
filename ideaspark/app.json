@@ -1,0 +1,22 @@
+{
+	"expo": {
+		"name": "IdeaSpark",
+		"slug": "ideaspark",
+		"scheme": "ideaspark",
+		"web": {
+			"bundler": "metro",
+			"output": "static",
+			"favicon": "./assets/icon.png",
+			"meta": {
+				"viewport": "initial-scale=1, width=device-width",
+				"themeColor": "#8b5cf6",
+				"og:image": "./assets/og-default.png",
+				"og:title": "IdeaSpark",
+				"og:description": "Drop ideas. Find partners. Spark something viral."
+			}
+		},
+		"plugins": [
+			"expo-router"
+		]
+	}
+}

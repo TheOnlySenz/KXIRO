@@ -1,0 +1,1 @@
+OG images are generated per idea id. You can prerender `/idea/[id]` with a head tag pointing to `/og/[id].png` that you create via a serverless function, or use a build-time script with `satori` + `sharp`.
